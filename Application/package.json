@@ -1,0 +1,14 @@
+{
+  "name": "mainapp",
+  "version": "1.0.0",
+  "description": "Main Entry Point for Client and Server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Miguel Angel Vinas",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^5.3.4"
+  }
+}
