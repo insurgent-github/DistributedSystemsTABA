@@ -1,0 +1,16 @@
+{
+  "name": "client001",
+  "version": "1.0.0",
+  "description": "Client001 for TABA Distributed Systems for National College Of Ireland",
+  "main": "app.js",
+  "scripts": 
+  {
+    "start": "node client001.js"
+  },
+  "author": "Miguel Angel Vinas",
+  "license": "ISC",
+  "dependencies": 
+  {
+    "mqtt": "^5.3.4"
+  }
+}
